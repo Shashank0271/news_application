@@ -31,7 +31,6 @@ class _FirstPageState extends State<FirstPage> {
 
   @override
   void deactivate() {
-    // TODO: implement deactivate
     super.deactivate();
     SystemNavigator.pop(); //to exit app
   }

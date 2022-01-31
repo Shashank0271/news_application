@@ -12,7 +12,7 @@ class NetworkHelper {
       print(decodedStuff);
       return decodedStuff;
     } else {
-      print('sorry something fucked up');
+      print('sorry something messed up');
     }
   }
 }
